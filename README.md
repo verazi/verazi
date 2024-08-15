@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @verazi
-- 👀 I’m interested in Data Science
+- 👋 Welcome to my github,
+- 👀 My interests
+    - Machine Learning
+    - Data Analysis
 - 🌱 I’m currently reading Information Technology
 - ⚡ I’m looking to collaborate on an interesting analysis project
 
