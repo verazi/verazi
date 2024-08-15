@@ -1,8 +1,8 @@
-## 👋 Welcome to my github
+# 👋 Welcome to my github
+- 🌱 I’m currently reading Information Technology
 - 👀 My interests
     - Machine Learning
     - Data Analysis
-- 🌱 I’m currently reading Information Technology
 - ⚡ I’m looking to collaborate on an interesting analysis project
 
 <!---
