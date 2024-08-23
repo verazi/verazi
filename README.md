@@ -19,7 +19,7 @@
 <br>
 
 ### 🌱 My Projects
- 1. [Multi-threaded Dictionary Application](https://github.com/verazi/Multithreaded-Dictionary-Server)
+ 1. [Dictionary Application](https://github.com/verazi/Multithreaded-Dictionary-Server)
  <br> Created a client-server dictionary application in Java that allows multiple users to search and update a centralised database of words and definitions.
 
 <!---
