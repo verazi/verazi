@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-🌱 Welcome to my GitHub! I hope you find something helpful here.
+🚀 Welcome to my GitHub! I hope you find something helpful here. ✨
 
 <br>
 
@@ -15,6 +15,12 @@
 <br>
 
 ### 📬 Find Me Here &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
+
+<br>
+
+### 🌱 My Projects
+ 1. [Multi-threaded Dictionary Application](https://github.com/verazi/Multithreaded-Dictionary-Server)
+ <br> Created a client-server dictionary application in Java that allows multiple users to search and update a centralised database of words and definitions.
 
 <!---
 verazi/verazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
