@@ -27,7 +27,6 @@ CSS     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 - 🌱 Highlighted Projects
   - Multithreaded Dictionary Server
-<br>
 
 ### 📬 Find me here &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
 
