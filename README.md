@@ -5,6 +5,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verazi&size_weight=0.5&count_weight=0.5&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java    2 hrs 8 mins    ███████████████▓░░░░░░░░░   62.30 %
+XML     48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+Other   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Text    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+CSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  My interests
