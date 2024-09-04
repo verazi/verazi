@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verazi&size_weight=0.5&count_weight=0.5&theme=radical)
 
+
+Languages used over the Last 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
