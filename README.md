@@ -28,8 +28,13 @@ Text             8 mins          ░░░░░░░░░░░░░░░�
 - `Languages and Tools` &nbsp; <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="15" height="15"/> Python / <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="15" height="15"/> Java / <img align="center" src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="15" height="15"/> R Language/ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="15" height="15"/> Haskell
 
 - 🌱 Highlighted Projects
+  - CIFAR-10 Classification
+  - Recommendation System for Netflix Movie and Show
+  - AI Planning: search-algorithms, PDDL, reinforcement-learning
+  - CUDA Matrix
+ 
   - Multithreaded Dictionary Server
-  - Movie and Show Recommendation System
+  - Concert Ticket Booking System
 
 ### 📬 Find me here &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
 
