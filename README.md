@@ -24,7 +24,6 @@
  
 - **Software Development**
   - Multithreaded Dictionary Server
-  - Concert Ticket Booking System
 
 ------------------------------------------------------------------------------------------
 
