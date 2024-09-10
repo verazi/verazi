@@ -18,8 +18,7 @@
 -  **Machine Learning**
     - CIFAR-10 Classification with Dimensionality Reduction
     - End-to-End Medical Machine Learning Pipeline
-    - Movie and TV Show Recommendation System
-    - AI Planning (Search Algorithms, PDDL)
+    - Movie Recommendation System
     - CUDA-Accelerated Matrix Multiplication
  
 - **Software Development**
