@@ -28,17 +28,6 @@
 
 ### 📊 Some Stats
 
-**Languages used over the Last 7 Days**
-<!--START_SECTION:waka-->
-
-```txt
-Python     13 hrs 43 mins  ████████████████████████▓   98.21 %
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
-
-<!--END_SECTION:waka-->
-
 **Top Languages in my Projects**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verazi&size_weight=0.5&count_weight=0.5&theme=radical)
