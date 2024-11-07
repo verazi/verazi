@@ -22,7 +22,8 @@
     - CUDA-Accelerated Matrix Multiplication
  
 - **Software Development**
-  - Multithreaded Dictionary Server
+  - [Multithreaded Dictionary Server](https://github.com/verazi/Multi-threaded-Dictionary-Server/tree/master)
+  - [Publish–Subscribe System](https://github.com/verazi/Publisher-Subscriber-System/tree/main)
 
 ------------------------------------------------------------------------------------------
 
