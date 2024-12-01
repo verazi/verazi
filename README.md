@@ -7,11 +7,11 @@
 
 ### 👩🏻‍💻 Highlighted Projects
 - [Recommendation System](https://github.com/verazi/Recommendation-System) <br >
-  Built a distributed recommendation system with Hadoop and Spark using collaborative filtering (ALS) to process large data and generate personalized product recommendations.
+  Built a distributed recommendation system with Hadoop and Spark using collaborative filtering (ALS) to process large data and generate personalized product recommendations
 - [Multithreaded Dictionary Server](https://github.com/verazi/Multi-threaded-Dictionary-Server/tree/master) <br >
-  Developed a multithreaded dictionary server in Java with a client-server architecture and thread-per-client concurrent processing.
+  Developed a multithreaded dictionary server in Java with a client-server architecture and thread-per-client concurrent processing
 - [Publish–Subscribe System](https://github.com/verazi/Publisher-Subscriber-System/tree/main) <br >
-  Designed a fault-tolerant publish-subscribe system in Java with topic-based routing, dynamic subscriptions, and scalable asynchronous communication.
+  Designed a fault-tolerant publish-subscribe system in Java with topic-based routing, dynamic subscriptions, and scalable asynchronous communication
 
 ### 📊 Some Stats
 
