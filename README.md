@@ -1,17 +1,25 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, there. Welcome to my GitHub! 🙋🏻‍♀️
 
 ### 🌱 My interests
-- Machine Learning
-- Data Analysis (Dimensional Reduction & Functional Data)
-- Parallel Computing  
+- Machine Learning & Neural Networks
+- Functional Data Analysis & Dimensionality Reduction
+- High-Performance & Parallel Computing
 
 ### 👩🏻‍💻 Highlighted Projects
-- [Recommendation System](https://github.com/verazi/Recommendation-System) <br >
-  Built a distributed recommendation system with Scala, Hadoop, and Spark using collaborative filtering (ALS) to process large data and generate personalized product recommendations
-- [Multithreaded Dictionary Server](https://github.com/verazi/Multi-threaded-Dictionary-Server/tree/master) <br >
-  Developed a multithreaded dictionary server in Java with a client-server architecture and thread-per-client concurrent processing
-- [Publish–Subscribe System](https://github.com/verazi/Publisher-Subscriber-System/tree/main) <br >
-  Designed a fault-tolerant publish-subscribe system in Java with topic-based routing, dynamic subscriptions, and scalable asynchronous communication
+- [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) <br >
+Implemented **Venkatesan’s incremental snapshot algorithm** in a Python-based distributed banking system with TCP sockets. Captures globally consistent states with minimized control messages and full crash recovery support. <br >
+*Tech: Python socket, select, JSON-based snapshot recovery, spanning tree coordination*
+
+- [**Human vs Machine Text Classifier**](https://github.com/jqama/COMP90051-StatML-Group23) <br >
+Developed a 4-layer neural network with 17K-dimensional input to classify AI-generated vs. human-written text across imbalanced domains. Achieved **96.5% accuracy** and **0.82 macro-F1**, outperforming BERT by 7.7%. <br >
+*Tech: PyTorch, BCEWithLogitsLoss, weighted loss*
+
+- [**Mastodon Housing Sentiment Pipeline**](https://github.com/verazi/Mastodon-Data-Analytics) <br >
+Built a **cloud-native serverless pipeline** to collect and analyze social-media sentiment on housing across Reddit & Mastodon using **Fission on Kubernetes**. Supports real-time VADER sentiment scoring, Elasticsearch indexing, and interactive dashboards.  
+*Tech: Kubernetes, Fission, Redis Streams, Elasticsearch, Jupyter, VADER*
+
+- [**Recommendation System**](https://github.com/verazi/Recommendation-System) <br >
+Built a distributed recommendation system with Scala, Hadoop, and Spark using collaborative filtering (ALS) to process large data and generate personalized product recommendations
 
 ### 📊 Some Stats
 
