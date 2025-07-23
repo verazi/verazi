@@ -18,9 +18,6 @@ Developed a 4-layer neural network with 17K-dimensional input to classify AI-gen
 Built a **cloud-native serverless pipeline** to collect and analyze social-media sentiment on housing across Reddit & Mastodon using **Fission on Kubernetes**. Supports real-time VADER sentiment scoring, Elasticsearch indexing, and interactive dashboards.  
 *Tech: Kubernetes, Fission, Redis Streams, Elasticsearch, Jupyter, VADER*
 
-- [**Recommendation System**](https://github.com/verazi/Recommendation-System) <br >
-Built a distributed recommendation system with Scala, Hadoop, and Spark using collaborative filtering (ALS) to process large data and generate personalized product recommendations
-
 ### 📊 Some Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verazi&size_weight=0.5&count_weight=0.5&theme=radical)
