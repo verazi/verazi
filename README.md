@@ -1,11 +1,11 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, there. Welcome to my GitHub! 🙋🏻‍♀️
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, there. Welcome to my GitHub!
 
-### 🌱 My interests
+### My interests
 - Machine Learning & Neural Networks
 - Functional Data Analysis & Dimensionality Reduction
 - High-Performance & Parallel Computing
 
-### 👩🏻‍💻 Highlighted Projects
+### Highlighted Projects
 - [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) <br >
 Implemented **Venkatesan’s incremental snapshot algorithm** in a Python-based distributed banking system with TCP sockets. Captures globally consistent states with minimized control messages and full crash recovery support. <br >
 *Tech: Python socket, select, JSON-based snapshot recovery, spanning tree coordination*
