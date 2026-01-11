@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, there. Welcome to my GitHub!
 
 ### My interests
+- High-Performance & Parallel Computing
 - Machine Learning & Neural Networks
 - Functional Data Analysis & Dimensionality Reduction
-- High-Performance & Parallel Computing
 
 ### Highlighted Projects
 - [**Spell Checkers**](https://github.com/verazi/Spell-Checker-System) [*Tech: Spartan (HPC), C/C++, OpenMP, MPI*]
