@@ -6,10 +6,11 @@
 - Functional Data Analysis & Dimensionality Reduction
 
 ### Highlighted Projects
-- [**Spell Checkers**](https://github.com/verazi/Spell-Checker-System) [*Tech: Spartan (HPC), C/C++, OpenMP, MPI*] <br >
-  1. Collect a list of distinct words from documents in multithreads using OpenMP [Dictionary repository](https://github.com/verazi/Efficient-Dictionary) <br >
-  2. Checks misspelling and suggest related candidates from a collected dictionary in multinodes using MPI <br >
-  3. Designed experiments to analyze the speedup and memory utilization (see [Dictionary report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf) and [Checking system report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf)) <br >
+
+- [**Spell Checker System**](https://github.com/verazi/Spell-Checker-System) [*Tech: C/C++, OpenMP, MPI, Spartan HPC*]
+  - Parallelized distinct word extraction from large-scale text documents using **OpenMP**, achieving speedup of 6 times. (see Dictionary repository: [Efficient Dictionary](https://github.com/verazi/Efficient-Dictionary))
+  - Implemented a distributed candidate generation pipeline using **MPI**, enabling scalable spell checking across multiple nodes, achieving speedup of 22 times.  
+  - Conducted systematic experiments to analyze **speedup, scalability, and memory utilization**. (see [Dictionary Report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf), [Spell Checker System Report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf))
 
 - [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) [*Tech: Python socket, select, JSON-based snapshot recovery, spanning tree coordination*] <br >
 Implemented **Venkatesan’s incremental snapshot algorithm** in a Python-based distributed banking system with TCP sockets. Captures globally consistent states with minimized control messages and full crash recovery support. <br >
