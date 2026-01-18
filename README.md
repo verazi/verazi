@@ -12,7 +12,7 @@
   2. Implemented a distributed candidate generation pipeline using **MPI**, enabling scalable spell checking across multiple nodes, achieving speedup of 22 times.  
   3. Conducted systematic experiments to analyze **speedup, scalability, and memory utilization**. (see [Dictionary Report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf), [Spell Checker System Report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf))
 
-- [**Cloud-Based Housing Affordability from Social Media**](https://github.com/verazi/Cloud-Based-Housing-Affordability-from-Social-Media) [*Tech: Python, Jupyter, Kubernetes, Fission, Kibana, Elasticsearch, NeCTAR Research Cloud*]
+- [**Cloud-Based Housing Affordability from Social Media**](https://github.com/verazi/Cloud-Based-Housing-Affordability-from-Social-Media) [*Tech: Python, Jupyter, docker, Kubernetes, Fission, Kibana, Elasticsearch, NeCTAR Research Cloud*]
     1. Implemented serverless data analytics pipeline on cloud for scalable ingestion and processing of social media data from Reddit and Mastodon under API rate limits
     2. Provided real-time querying and exploratory analysis through RESTful APIs and interactive Kibana dashboards.
 
