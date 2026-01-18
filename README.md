@@ -12,6 +12,10 @@
   - Implemented a distributed candidate generation pipeline using **MPI**, enabling scalable spell checking across multiple nodes, achieving speedup of 22 times.  
   - Conducted systematic experiments to analyze **speedup, scalability, and memory utilization**. (see [Dictionary Report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf), [Spell Checker System Report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf))
 
+- [**Cloud-Based Housing Affordability from Social Media**](https://github.com/verazi/Cloud-Based-Housing-Affordability-from-Social-Media) [*Tech: Python, Jupyter, Kubernetes, Fission, Kibana, Elasticsearch, NeCTAR Research Cloud*]
+    - Implemented serverless data analytics pipeline on cloud for scalable ingestion and processing of social media data from Reddit and Mastodon under API rate limits
+    - Provided real-time querying and exploratory analysis through RESTful APIs and interactive Kibana dashboards.
+
 - [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) [*Tech: Python socket, select, JSON-based snapshot recovery, spanning tree coordination*] <br >
 Implemented **Venkatesan’s incremental snapshot algorithm** in a Python-based distributed banking system with TCP sockets. Captures globally consistent states with minimized control messages and full crash recovery support. <br >
 
