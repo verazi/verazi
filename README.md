@@ -16,8 +16,10 @@
     1. Implemented serverless data analytics pipeline on cloud for scalable ingestion and processing of social media data from Reddit and Mastodon under API rate limits
     2. Provided real-time querying and exploratory analysis through RESTful APIs and interactive Kibana dashboards.
 
-- [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) [*Tech: Python socket, select, JSON-based snapshot recovery, spanning tree coordination*] <br >
-Implemented **Venkatesan’s incremental snapshot algorithm** in a Python-based distributed banking system with TCP sockets. Captures globally consistent states with minimized control messages and full crash recovery support. <br >
+- **Distributed Systems**
+  - [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) [*Tech: Python, TCP, select, spanning tree*]: Captures globally consistent states with minimized control messages and full crash recovery support using Venkatesan’s incremental snapshot algorithm. <br >
+  - [**Multithread Dictionary Server**](https://github.com/verazi/Multi-threaded-Dictionary-Server) [*Tech: Java, TCP, JavaFX*]: Implenemts a client-server architecture through a thread-per-connection approach <br >
+  - [Publisher Subscriber System](https://github.com/verazi/Publisher-Subscriber-System) [*Tech: Java, TCP*]: Developed pub-sub system through interconnected brokers for real-time communication and broadcasting.
 
 - [**Human vs Machine Text Classifier**](https://github.com/jqama/COMP90051-StatML-Group23) [*Tech: PyTorch, BCEWithLogitsLoss, weighted loss*]  <br >
 Developed a 4-layer neural network with 17K-dimensional input to classify AI-generated vs. human-written text across imbalanced domains. Achieved **96.5% accuracy** and **0.82 macro-F1**, outperforming BERT by 7.7%. <br >
