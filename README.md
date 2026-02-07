@@ -1,31 +1,33 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, there. Welcome to my GitHub!
+## Hi, this is Vera 👋
 
-### My interests
-- High-Performance & Parallel Computing
-- Machine Learning & Neural Networks
-- Functional Data Analysis & Dimensionality Reduction
+I’m an IT graduate from the University of Melbourne, with a strong focus on High Performance Computing and Statistical Machine Learning.
 
-### Highlighted Projects
+## 🚀 High Performance & Distributed Systems Projects
+**Spell Checker System**
+  - Parallelized large-scale word extraction using OpenMP, achieving up to 6× speedup. see [Repository](https://github.com/verazi/Efficient-Dictionary) & [Report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf)
+  - Designed a distributed candidate generation pipeline with MPI, achieving 22× speedup. see [Repository](https://github.com/verazi/Spell-Checker-System) & [Report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf)
 
-- [**Spell Checker System**](https://github.com/verazi/Spell-Checker-System) [*Tech: C/C++, OpenMP, MPI, Spartan HPC*]
-  1. Parallelized distinct word extraction from large-scale text documents using **OpenMP**, achieving speedup of 6 times. (see Dictionary repository: [Efficient Dictionary](https://github.com/verazi/Efficient-Dictionary))
-  2. Implemented a distributed candidate generation pipeline using **MPI**, enabling scalable spell checking across multiple nodes, achieving speedup of 22 times.  
-  3. Conducted systematic experiments to analyze **speedup, scalability, and memory utilization**. (see [Dictionary Report](https://github.com/verazi/Efficient-Dictionary/blob/main/Report1.pdf), [Spell Checker System Report](https://github.com/verazi/Spell-Checker-System/blob/main/Report.pdf))
+**Super-Resolution Convolutional Neural Network**
+  - Deployed deep CNN on FPGA to accelerate low-resolution to high-resolution image reconstruction. see [Repository](https://github.com/verazi/SRCNN)
 
-- [**Cloud-Based Housing Affordability from Social Media**](https://github.com/verazi/Cloud-Based-Housing-Affordability-from-Social-Media) [*Tech: Python, Jupyter, docker, Kubernetes, Fission, Kibana, Elasticsearch, NeCTAR Research Cloud*]
-    1. Implemented serverless data analytics pipeline on cloud for scalable ingestion and processing of social media data from Reddit and Mastodon under API rate limits
-    2. Provided real-time querying and exploratory analysis through RESTful APIs and interactive Kibana dashboards.
+**Cloud-Based Housing Affordability from Social Media**
+  - Built a serverless cloud analytics pipeline to ingest and analyze large-scale Reddit and Mastodon data. see [Repository](https://github.com/verazi/Cloud-Based-Housing-Affordability-from-Social-Media)
+  - Integrated CI/CD (GitLab) for automated deployment and scalable data processing
+ 
+**Distributed Bank System Snapshot**
+  - Implemented Venkatesan’s incremental snapshot algorithm to capture globally consistent states with minimized control messages and full crash recovery. see [Repository](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system)
 
-- **Distributed Systems**
-  - [**Distributed Bank System Snapshot**](https://github.com/verazi/venkatesans-incremental-snapshot-bank-system) [*Tech: Python, TCP, select, spanning tree*]: Captures globally consistent states with minimized control messages and full crash recovery support using Venkatesan’s incremental snapshot algorithm. <br >
-  - [**Multithread Dictionary Server**](https://github.com/verazi/Multi-threaded-Dictionary-Server) [*Tech: Java, TCP, JavaFX*]: Implenemts a client-server architecture through a thread-per-connection approach <br >
-  - [**Publisher Subscriber System**](https://github.com/verazi/Publisher-Subscriber-System) [*Tech: Java, TCP*]: Developed pub-sub system through interconnected brokers for real-time communication and broadcasting.
+## 🤖 Machine Learning Projects
+**Human vs Machine Text Classifier**
+  - Developed a 4-layer neural network with 17K-dimensional input to classify AI-generated vs. human-written text across imbalanced domains, achieving **96.5%** accuracy and **0.82** macro-F1. see [Repository](https://github.com/verazi/AI-ML-Text-Detector)
 
-- [**Human vs Machine Text Classifier**](https://github.com/jqama/COMP90051-StatML-Group23) [*Tech: PyTorch, BCEWithLogitsLoss, weighted loss*]  <br >
-Developed a 4-layer neural network with 17K-dimensional input to classify AI-generated vs. human-written text across imbalanced domains. Achieved **96.5% accuracy** and **0.82 macro-F1**, outperforming BERT by 7.7%. <br >
+**Voice-based querying of social media data collections using the MCP and LLM**
+  - Built a voice-based querying system connecting APIs and LLMs via the Model Context Protocol (MCP), allowing natural language access to social media data collections with LLM-based reasoning summaries  . see [Repository](https://github.com/verazi/Voice-Enabled-LLM-MCP-Reasoning-System)
 
 
-### 📬 Find me here &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
+## 📬 Find me here &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
 
 <!---
 verazi/verazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
