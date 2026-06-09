@@ -1,8 +1,8 @@
 ## Hi, this is Vera 👋
 
-I’m an IT graduate from the University of Melbourne.
+I’m an Information Technology graduate from the University of Melbourne.
 
-## 📬 Find me here &nbsp;
+## 📬 Please find me here
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vera.ziyu.wang@gmail.com)](mailto:vera.ziyu.wang@gmail.com)
 
