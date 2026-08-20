@@ -1,9 +1,10 @@
 ## Hi, this is Vera 👋
 
-I’m an Information Technology graduate from the University of Melbourne. <br >
-I'm currently exploring LLM inference and applied AI. <br >
-My interests lies in High Performance Computing (HPC) and Large Language Model (LLM)! <br >
-see my pinned projects and feel free to reach out
+I’m an Information Technology graduate from the University of Melbourne.
+
+Currently exploring LLM inference and applied AI, with a particular interest in High-Performance Computing (HPC) and Large Language Models (LLMs).
+
+Check out my pinned projects, and feel free to reach out!
 
 
 ## 📬 Please find me here
