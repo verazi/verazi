@@ -1,6 +1,11 @@
 ## Hi, this is Vera 👋
 
-I’m an Information Technology graduate from the University of Melbourne.
+I’m an Information Technology graduate from the University of Melbourne. <br >
+I'm currently exploring LLM inference and applied AI. <br >
+My interests lies in High Performance Computing (HPC) and Large Language Model (LLM) <br >
+
+my projects
+
 
 ## 📬 Please find me here
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ziyu-vera-wang/)](https://www.linkedin.com/in/ziyu-vera-wang/) &nbsp; 
